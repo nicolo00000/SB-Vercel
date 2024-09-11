@@ -1,0 +1,35 @@
+**Titolo:** Procedura per la pulizia della puleggia di Machine_1
+
+**Scopo:** Questa procedura ha lo scopo di guidare gli operatori su come staccare, pulire e riattaccare la puleggia di Machine_1 per garantirne il corretto funzionamento e la sicurezza dell'operatore.
+
+**Ambito:** Questa procedura si applica agli operatori responsabili della manutenzione di Machine_1.
+
+**Responsabilità:**
+- Gli operatori devono seguire attentamente questa procedura per garantire la corretta pulizia della puleggia di Machine_1.
+- Il responsabile della manutenzione è responsabile di assicurarsi che questa procedura venga eseguita in modo corretto e sicuro.
+
+**Attrezzature/Materiali necessari:**
+- Guanti protettivi
+- Panni puliti
+- Soluzione detergente non aggressiva
+- Strumenti per staccare la puleggia (se necessario)
+
+**Misure di sicurezza:**
+- Assicurarsi che Machine_1 sia spenta prima di iniziare la procedura.
+- Indossare sempre i guanti protettivi per evitare lesioni alle mani durante la manipolazione della puleggia.
+- Prestare attenzione per evitare il rischio di schiacciamento delle dita durante la rimozione e il riattacco della puleggia.
+
+**Procedure:**
+1. Assicurarsi che Machine_1 sia spenta e che nessuna parte sia in movimento.
+2. Localizzare la puleggia da pulire.
+3. Staccare con cura la puleggia utilizzando gli strumenti appropriati, se necessario.
+4. Pulire accuratamente la puleggia con un panno pulito inumidito con la soluzione detergente non aggressiva.
+5. Assicurarsi di rimuovere eventuali residui o sporco dalla puleggia.
+6. Verificare che la puleggia sia completamente asciutta prima di riattaccarla.
+7. Riattaccare con attenzione la puleggia assicurandosi che sia posizionata correttamente.
+8. Verificare che la puleggia sia saldamente fissata.
+9. Pulire e riporre gli strumenti utilizzati.
+10. Riaccendere Machine_1 e verificare che la puleggia funzioni correttamente.
+
+**Revisione della procedura:**
+Questa procedura deve essere periodicamente riesaminata e aggiornata per garantire che gli operatori dispongano delle istruzioni più recenti e accurate per la pulizia della puleggia di Machine_1.

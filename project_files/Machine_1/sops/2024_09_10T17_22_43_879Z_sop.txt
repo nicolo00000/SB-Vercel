@@ -1,0 +1,29 @@
+**Titolo:** Procedura Operativa Standard per la Pulizia della Macchina_1
+
+**Scopo:** Questa procedura fornisce istruzioni dettagliate per staccare, pulire e riattaccare i componenti di pulizia della Macchina_1 al fine di garantire il corretto funzionamento e la sicurezza dell'attrezzatura.
+
+**Ambito:** Questa SOP si applica a tutti gli operatori responsabili della pulizia della Macchina_1.
+
+**Responsabilità:**
+- Gli operatori sono responsabili di seguire scrupolosamente la procedura per garantire una pulizia efficace e sicura della Macchina_1.
+
+**Attrezzature/Materiali necessari:**
+- Panni puliti
+- Detergente non abrasivo
+- Guanti protettivi
+
+**Misure di Sicurezza:**
+- Assicurarsi che la Macchina_1 sia spenta prima di iniziare la procedura di pulizia.
+- Indossare sempre i guanti protettivi durante la pulizia per evitare lesioni alle mani.
+- Prestare attenzione ai componenti caldi della macchina per evitare scottature.
+
+**Procedure Passo-Passo:**
+1. Staccare la Macchina_1 dalla fonte di alimentazione e assicurarsi che sia completamente spenta.
+2. Indossare i guanti protettivi.
+3. Utilizzando un panno pulito inumidito con detergente non abrasivo, pulire accuratamente le superfici esterne della Macchina_1 per rimuovere lo sporco e i residui.
+4. Concentrarsi sui punti critici di contatto e sulle aree più sporche.
+5. Verificare che non ci siano residui di detergente sulle superfici pulite.
+6. Una volta completata la pulizia, rimuovere con cura i residui di detergente con un panno pulito e asciutto.
+7. Riattaccare la Macchina_1 alla fonte di alimentazione e accenderla per verificare che funzioni correttamente.
+
+Concludendo, seguire attentamente questa procedura garantirà una corretta pulizia della Macchina_1, mantenendo l'attrezzatura in condizioni ottimali per il suo utilizzo.

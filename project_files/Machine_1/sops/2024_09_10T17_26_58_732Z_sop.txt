@@ -1,0 +1,34 @@
+**Titolo:** Procedura Operativa Standard per la Pulizia della Macchina_1
+
+**Scopo:** Questa procedura dettaglia le operazioni necessarie per staccare, pulire e riattaccare la pulizia della Macchina_1 al fine di garantirne il corretto funzionamento e la sicurezza degli operatori.
+
+**Ambito:** Questa SOP si applica al personale responsabile della manutenzione e della pulizia della Macchina_1.
+
+**Responsabilità:**
+- Il responsabile della manutenzione è responsabile di assicurarsi che la procedura di pulizia venga eseguita regolarmente e correttamente.
+- Gli operatori incaricati della pulizia devono seguire scrupolosamente questa procedura per garantire l'efficacia della pulizia e la sicurezza dell'ambiente di lavoro.
+
+**Attrezzature/Materiali necessari:**
+- Panni puliti
+- Soluzione detergente non aggressiva
+- Guanti protettivi
+- Occhiali protettivi
+
+**Misure di Sicurezza:**
+- Assicurarsi che la Macchina_1 sia spenta prima di iniziare la procedura di pulizia.
+- Indossare guanti protettivi e occhiali durante l'intera procedura per evitare lesioni.
+- Utilizzare solo soluzioni detergenti non aggressive per evitare danni alla macchina.
+- Prestare attenzione ai cavi elettrici durante la pulizia per evitare cortocircuiti o lesioni.
+
+**Procedure:**
+1. Staccare la pulizia: Assicurarsi che la Macchina_1 sia spenta. Rimuovere con cura la pulizia dalla macchina seguendo le istruzioni del manuale.
+   
+2. Pulire la pulizia: Utilizzare un panno pulito inumidito con la soluzione detergente per pulire accuratamente la pulizia. Rimuovere eventuali residui o macchie con cura.
+   
+3. Pulire la Macchina_1: Utilizzare un panno pulito inumidito con la soluzione detergente per pulire delicatamente le parti della Macchina_1 che erano coperte dalla pulizia. Rimuovere lo sporco o la polvere accumulata.
+   
+4. Riattaccare la pulizia: Una volta che sia la pulizia che la Macchina_1 sono asciutte, riattaccare la pulizia seguendo le istruzioni del manuale. Assicurarsi che sia fissata saldamente e correttamente.
+
+5. Verifica finale: Accendere la Macchina_1 e verificare che tutto funzioni correttamente. Assicurarsi che non ci siano perdite o danni dopo la pulizia.
+
+Questa SOP dovrebbe essere seguita rigorosamente per garantire la pulizia efficace e sicura della Macchina_1.

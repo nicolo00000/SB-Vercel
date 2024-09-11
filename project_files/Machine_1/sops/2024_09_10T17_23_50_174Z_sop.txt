@@ -1,0 +1,32 @@
+**Titolo:** Procedura Operativa Standard per la Macchina_1
+
+**Scopo:** Questa procedura fornisce istruzioni dettagliate su come eseguire operazioni di pulizia sulla Macchina_1 per garantire un corretto funzionamento.
+
+**Ambito:** Questa SOP si applica a tutti gli operatori responsabili della manutenzione e pulizia della Macchina_1.
+
+**Responsabilità:**
+- Gli operatori sono responsabili di seguire attentamente le istruzioni fornite in questa SOP.
+- Il responsabile della manutenzione è responsabile di garantire che la Macchina_1 sia pulita e funzionante.
+
+**Attrezzature/Materiali necessari:**
+- Panni puliti
+- Detergente non abrasivo
+- Guanti protettivi
+- Mascherina per il viso
+
+**Precauzioni di sicurezza:**
+- Assicurarsi che la Macchina_1 sia spenta prima di iniziare qualsiasi operazione di pulizia.
+- Indossare sempre guanti protettivi e mascherina per il viso durante le operazioni di pulizia.
+- Prestare attenzione per evitare lesioni durante la manipolazione di parti affilate della macchina.
+
+**Procedure:**
+1. Staccare la Macchina_1 dalla presa elettrica per garantire la sicurezza durante le operazioni di pulizia.
+2. Utilizzare un panno pulito per rimuovere qualsiasi sporco o residuo visibile sulla superficie esterna della Macchina_1.
+3. Prendere un detergente non abrasivo e diluirlo in acqua seguendo le istruzioni riportate sull'etichetta.
+4. Immergere un altro panno pulito nella soluzione detergente e pulire delicatamente tutte le superfici della Macchina_1.
+5. Assicurarsi di pulire accuratamente tutte le fessure e gli angoli della Macchina_1 per rimuovere lo sporco accumulato.
+6. Una volta completata la pulizia, risciacquare la Macchina_1 con un panno umido pulito per rimuovere eventuali residui di detergente.
+7. Asciugare accuratamente la Macchina_1 con un panno asciutto e morbido per evitare la formazione di ruggine.
+8. Ripristinare la Macchina_1 alla sua posizione originale e ricollegarla alla presa elettrica.
+
+**Nota:** Questa procedura di pulizia dovrebbe essere eseguita regolarmente per garantire che la Macchina_1 funzioni correttamente e prolunghi la sua durata.
