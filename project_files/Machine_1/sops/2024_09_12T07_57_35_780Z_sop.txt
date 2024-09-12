@@ -1,0 +1,30 @@
+**Titolo:** Procedura standard per la pulizia e il montaggio della puleggia su Machine_1
+
+**Scopo:** Questa procedura fornisce istruzioni dettagliate su come staccare, pulire e attaccare la puleggia su Machine_1 per garantire il corretto funzionamento dell'attrezzatura.
+
+**Ambito:** Questa procedura si applica ai tecnici responsabili della manutenzione della Machine_1.
+
+**Responsabilità:**
+- Il responsabile della manutenzione è responsabile dell'esecuzione corretta della procedura.
+- Il supervisore è responsabile di assicurarsi che la procedura venga seguita correttamente.
+
+**Attrezzature/Materiali necessari:**
+- Chiave per staccare la puleggia
+- Panno per la pulizia
+- Lubrificante per la puleggia
+
+**Misure di sicurezza:**
+- Assicurarsi che Machine_1 sia spenta prima di iniziare la procedura.
+- Utilizzare guanti protettivi per evitare lesioni durante la manipolazione della puleggia.
+- Prestare attenzione per evitare il rischio di schiacciamento delle dita durante la rimozione e il montaggio della puleggia.
+
+**Procedure:**
+1. Staccare la puleggia utilizzando la chiave apposita. Ruotare in senso antiorario fino a quando la puleggia non si stacca completamente dall'albero.
+2. Pulire accuratamente la puleggia utilizzando un panno per rimuovere polvere, sporco e residui.
+3. Ispezionare la puleggia per eventuali danni o usura e sostituirla se necessario.
+4. Applicare una piccola quantità di lubrificante sulla puleggia per garantire un corretto funzionamento e una maggiore durata.
+5. Attaccare nuovamente la puleggia all'albero, assicurandosi che sia ben allineata e che sia fissata saldamente. Ruotare in senso orario utilizzando la chiave per stringere la puleggia.
+6. Verificare che la puleggia sia saldamente fissata e che non ci siano giochi o movimenti anomali.
+7. Accendere Machine_1 e verificare che la puleggia funzioni correttamente.
+
+Questa procedura dovrebbe essere eseguita regolarmente per garantire il corretto funzionamento di Machine_1 e prolungarne la durata.

@@ -7,6 +7,8 @@ import path from 'path';
 import { desc, eq } from 'drizzle-orm';
 import OpenAI from 'openai';
 
+export const dynamic = 'force-dynamic';
+
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 async function generateSummary(transcript: string): Promise<string> {
@@ -26,8 +28,7 @@ async function generateSummary(transcript: string): Promise<string> {
       max_tokens: 150,
       temperature: 0.7,
     });
-
-    return completion.choices[0].message.content || 'No summary generated';
+    return completion.choices[0].message?.content || 'No summary generated';
   } catch (error) {
     console.error('Error in summary generation:', error);
     return 'Error generating summary';
@@ -62,15 +63,12 @@ export async function GET(req: NextRequest) {
     const processedFiles = await Promise.all(
       Object.values(groupedFiles).map(async ({ sop, transcript }) => {
         if (!sop || !transcript) return null; // Skip if we don't have both SOP and transcript
-
         const sopPath = path.resolve(sop.filePath);
         const transcriptPath = path.resolve(transcript.filePath);
-
         try {
           const sopContent = await fs.readFile(sopPath, 'utf-8');
           const transcriptContent = await fs.readFile(transcriptPath, 'utf-8');
           const summary = await generateSummary(transcriptContent);
-
           return {
             id: sop.id,
             fileName: sop.fileName,
@@ -89,7 +87,6 @@ export async function GET(req: NextRequest) {
     // Filter out any null results and send the response
     const validFiles = processedFiles.filter(file => file !== null);
     return NextResponse.json(validFiles);
-
   } catch (error) {
     console.error('Error fetching user history:', error);
     return NextResponse.json({
