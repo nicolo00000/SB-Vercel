@@ -1,0 +1,31 @@
+**Procedure Operative Standard (SOP) per la Macchina_2**
+
+**Titolo:** Procedura per la Pulizia e Manutenzione della Macchina_2
+
+**Scopo:** Questo Standard Operating Procedure (SOP) fornisce istruzioni dettagliate su come eseguire la pulizia e la manutenzione della Macchina_2 per garantirne il corretto funzionamento e prolungarne la vita utile.
+
+**Ambito:** Questa procedura si applica a tutti gli operatori incaricati della pulizia e manutenzione della Macchina_2.
+
+**Responsabilità:** Gli operatori incaricati devono seguire attentamente questa procedura per garantire la corretta esecuzione delle operazioni di pulizia e manutenzione della Macchina_2.
+
+**Attrezzature/Materiali Necessari:**
+1. Cacciavite
+2. Detergente sgrassatore
+3. Panno per la pulizia
+
+**Misure di Sicurezza:**
+1. Assicurarsi che la Macchina_2 sia spenta prima di iniziare qualsiasi operazione di pulizia o manutenzione.
+2. Utilizzare guanti per proteggere le mani durante la pulizia e la manutenzione.
+3. Prestare attenzione alle superfici calde per evitare scottature.
+4. Assicurarsi di seguire le linee guida sulla sicurezza sul lavoro durante l'esecuzione di questa procedura.
+
+**Procedure Passo-Passo:**
+1. Attaccare la pulizia tramite le quattro viti sulla Macchina_2.
+2. Rimuovere con cura la pulizia dalla Macchina_2.
+3. Pulire accuratamente la pulizia con un detergente sgrassante.
+4. Sgrassare la pulizia per rimuovere eventuali residui.
+5. Rimuovere la copertura sottostante della Macchina_2 con il cacciavite.
+6. Riattaccare la pulizia sulla Macchina_2 utilizzando le quattro viti.
+7. Infine, attaccare la spina della Macchina_2 per completare la procedura di pulizia e manutenzione.
+
+Seguendo attentamente questa procedura, gli operatori possono assicurarsi che la Macchina_2 rimanga pulita, funzionante e sicura per l'uso continuo.

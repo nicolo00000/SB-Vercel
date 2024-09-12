@@ -1,0 +1,38 @@
+**Procedura Operativa Standard per la Manutenzione di Machine_1**
+
+**Scopo:**
+La presente procedura dettaglia le istruzioni per la pulizia e manutenzione di Machine_1 al fine di garantirne il corretto funzionamento e prolungarne la durata.
+
+**Ambito:**
+Questa SOP si applica a tutti gli operatori incaricati della manutenzione di Machine_1.
+
+**Responsabilità:**
+- Gli operatori incaricati della manutenzione sono responsabili di seguire attentamente la procedura descritta.
+- Il responsabile della sicurezza sul luogo di lavoro è tenuto a garantire che vengano rispettate tutte le misure di sicurezza durante l'esecuzione della procedura.
+
+**Attrezzature/Materiali Necessari:**
+- Strumenti per la pulizia
+- Sgrassatore
+- 4 viti di ricambio
+- Spina di alimentazione
+
+**Misure di Sicurezza:**
+- Assicurarsi che Machine_1 sia spenta e scollegata prima di iniziare la manutenzione.
+- Utilizzare dispositivi di protezione individuale, come guanti, durante l'esecuzione della procedura.
+- Prestare attenzione per evitare lesioni durante la manipolazione di parti metalliche.
+
+**Procedure:**
+1. Spegnere e scollegare Machine_1 dalla presa di corrente.
+2. Rimuovere con attenzione la copertura esterna per accedere all'interno della macchina.
+3. Pulire accuratamente l'interno di Machine_1 utilizzando gli strumenti adatti.
+4. Applicare lo sgrassatore per rimuovere eventuali residui di sporco o grasso.
+5. Rimuovere le 4 viti che fissano la parte interessata.
+6. Pulire e rimettere a posto la parte rimossa.
+7. Riavvitare le 4 viti precedentemente rimosse in modo sicuro.
+8. Riattaccare la copertura esterna della macchina assicurandosi che sia correttamente posizionata.
+9. Collegare nuovamente Machine_1 alla presa di corrente.
+10. Verificare che tutte le connessioni siano state ripristinate correttamente.
+11. Accendere Machine_1 e assicurarsi che funzioni correttamente.
+12. Verificare che la spina sia collegata in modo sicuro.
+
+Seguendo attentamente questa procedura, è possibile garantire una corretta manutenzione di Machine_1 e il suo corretto funzionamento nel tempo.

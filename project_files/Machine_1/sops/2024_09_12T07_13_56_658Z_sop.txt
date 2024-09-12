@@ -1,0 +1,34 @@
+**Procedura Operativa Standard per la Pulizia e Manutenzione di Machine_1**
+
+**Scopo:**
+La presente procedura ha lo scopo di guidare il personale nella corretta pulizia e manutenzione di Machine_1 al fine di garantirne il corretto funzionamento e prolungarne la durata.
+
+**Ambito di Applicazione:**
+Questa SOP si applica a tutti gli operatori incaricati della pulizia e manutenzione di Machine_1 nell'ambito delle operazioni quotidiane.
+
+**Responsabilità:**
+- L'operatore incaricato della pulizia e manutenzione di Machine_1 è responsabile di seguire attentamente questa procedura.
+- Il responsabile di produzione è responsabile della supervisione e dell'approvazione della corretta esecuzione della procedura.
+
+**Attrezzature/Materiali Necessari:**
+- Cacciavite
+- Panno per la pulizia
+- Detergente sgrassante
+- Copertura sottostante
+
+**Misure di Sicurezza:**
+- Prima di iniziare qualsiasi operazione di pulizia e manutenzione, assicurarsi che Machine_1 sia spenta e scollegata dall'alimentazione elettrica.
+- Utilizzare gli strumenti e i materiali in modo corretto per evitare lesioni personali.
+- Prestare attenzione ai bordi affilati e alle parti mobili della macchina durante le operazioni di pulizia e manutenzione.
+
+**Procedure:**
+1. Staccare la pulizia tramite le quattro viti utilizzando il cacciavite.
+2. Rimuovere con cura la pulizia dalla macchina.
+3. Pulire la pulizia accuratamente utilizzando un panno per la pulizia e un detergente sgrassante.
+4. Sgrassare la pulizia per rimuovere eventuali residui di sporco o grasso.
+5. Rimuovere la copertura sottostante con attenzione per accedere alle parti interne della macchina.
+6. Riattaccare la pulizia sulla macchina assicurandosi che sia ben fissata utilizzando le quattro viti.
+7. Infine, ricollegare la spina della macchina all'alimentazione elettrica.
+
+**Nota:**
+Assicurarsi di seguire attentamente ogni passaggio della procedura per garantire una corretta pulizia e manutenzione di Machine_1.

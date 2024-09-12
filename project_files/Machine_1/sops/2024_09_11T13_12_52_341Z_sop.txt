@@ -1,0 +1,33 @@
+Title: Procedura Operativa Standard per la Macchina_1
+
+Purpose:
+Questa procedura operativa standard (SOP) è stata sviluppata per garantire un corretto utilizzo della Macchina_1 al fine di ottimizzare le operazioni e garantire la sicurezza sul luogo di lavoro.
+
+Scope:
+Questa SOP si applica a tutti gli operatori incaricati di utilizzare la Macchina_1.
+
+Responsabilità:
+- Gli operatori sono responsabili di seguire questa procedura in modo accurato.
+- Il responsabile della sicurezza sul luogo di lavoro è responsabile di garantire che tutte le misure di sicurezza siano rispettate durante l'utilizzo della Macchina_1.
+
+Attrezzature/Materiali necessari:
+- Macchina_1
+- Manuale dell'utente della Macchina_1
+- Attrezzature di protezione individuale (PPE) come guanti e occhiali protettivi
+
+Misure di sicurezza:
+- Assicurarsi di indossare correttamente l'attrezzatura di protezione individuale (PPE) prima di utilizzare la Macchina_1.
+- Seguire attentamente le istruzioni riportate nel manuale dell'utente della Macchina_1.
+- Prestare attenzione a eventuali segnali di pericolo sulla Macchina_1 e sulle aree circostanti.
+- Non utilizzare la Macchina_1 se non si è stati adeguatamente addestrati.
+
+Procedure:
+Passo 1: Assicurarsi che la Macchina_1 sia spenta.
+Passo 2: Controllare che non ci siano ostacoli o materiali estranei sulla Macchina_1.
+Passo 3: Accendere la Macchina_1 premendo il pulsante di accensione.
+Passo 4: Controllare che la Macchina_1 sia pronta per l'uso.
+Passo 5: Iniziare le operazioni sulla Macchina_1 seguendo le istruzioni appropriate.
+Passo 6: Una volta completate le operazioni, spegnere la Macchina_1 e pulirla accuratamente.
+Passo 7: Verificare che la Macchina_1 sia stata spenta correttamente e che sia pronta per il prossimo utilizzo.
+
+Fine della Procedura.

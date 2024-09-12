@@ -1,0 +1,33 @@
+**Titolo:** Procedura operativa standard per la manutenzione di Machine_1
+
+**Scopo:** Questo documento fornisce istruzioni dettagliate per la corretta manutenzione di Machine_1 al fine di garantirne il corretto funzionamento e prolungarne la durata.
+
+**Ambito:** Questa procedura riguarda il personale responsabile della manutenzione di Machine_1.
+
+**Responsabilità:** Il personale incaricato della manutenzione di Machine_1 è responsabile di seguire questa procedura in modo accurato e completo.
+
+**Attrezzature/Materiali necessari:**
+- Cacciavite
+- Pulizia
+- Sgrassatore
+- Copertura sottostante
+
+**Misure di sicurezza:**
+- Assicurarsi che Machine_1 sia spenta prima di iniziare la manutenzione.
+- Utilizzare gli strumenti in modo corretto per evitare lesioni.
+- Prestare attenzione alle parti mobili di Machine_1 durante la manutenzione.
+
+**Procedure:**
+1. Scollegare Machine_1 dalla corrente elettrica per garantire la sicurezza.
+2. Utilizzando un cacciavite, staccare la pulizia tramite le quattro viti per accedere all'interno di Machine_1.
+3. Rimuovere con attenzione la pulizia dalla macchina.
+4. Pulire accuratamente la pulizia utilizzando un prodotto specifico e un panno pulito.
+5. Sgrassare la pulizia per rimuovere eventuali residui oleosi o sporco.
+6. Rimuovere la copertura sottostante per accedere alle parti interne di Machine_1.
+7. Riposizionare la pulizia all'interno della macchina in modo corretto.
+8. Fissare la pulizia utilizzando le quattro viti precedentemente rimosse.
+9. Rimettere in posizione la copertura sottostante per proteggere le parti interne di Machine_1.
+10. Riaccendere Machine_1 e verificare che tutto funzioni correttamente.
+11. Verificare che le spine siano correttamente collegate e funzionanti.
+
+Seguire attentamente queste istruzioni per eseguire correttamente la manutenzione di Machine_1.

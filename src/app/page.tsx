@@ -49,6 +49,7 @@ const translations = {
     downloadTranscript: "Scarica Trascrizione",
     downloadSummary: "Scarica Riepilogo",
     downloadSop: "Scarica SOP",
+    noSummaryAvailable: "Nessun riepilogo disponibile",
   },
   en: {
     title: "Audio to SOP Converter for Specific Machines",
@@ -77,6 +78,7 @@ const translations = {
     downloadTranscript: "Download Transcript",
     downloadSummary: "Download Summary",
     downloadSop: "Download SOP",
+    noSummaryAvailable: "No summary available",
   }
 };
 
@@ -151,28 +153,35 @@ const AudioToSopConverter = () => {
 
   const handleUpload = async () => {
     if (!audioBlob) return;
-
+  
     setIsLoading(true);
     setError(null);
     const formData = new FormData();
     formData.append('audio', audioBlob, 'recording.webm');
     formData.append('machine', selectedMachine);
     formData.append('language', language);
-
+  
     try {
       const response = await fetch('/api/upload', {
         method: 'POST',
         body: formData,
       });
-
+  
       const responseText = await response.text();
-
+      console.log('Raw API response:', responseText);
+  
       if (response.ok) {
         try {
           const result: UploadResult = JSON.parse(responseText);
+          console.log('Parsed API response:', result);
+  
+          if (!result.summary) {
+            console.warn('Summary is missing from the API response');
+          }
+  
           setLatestResult(result);
           fetchUserHistory();
-          setContentType(null); // Reset content type when new upload is made
+          setContentType(null);
         } catch (error) {
           console.error('Error parsing JSON response:', error);
           setError('Error parsing server response');
@@ -203,7 +212,7 @@ const AudioToSopConverter = () => {
     const doc = new jsPDF();
     const pageHeight = doc.internal.pageSize.height;
     const margin = 10;
-    const fontSize = 10; // Smaller font size
+    const fontSize = 10;
     doc.setFontSize(fontSize);
     const lineHeight = fontSize * 0.5;
     let cursorY = margin;
@@ -229,13 +238,11 @@ const AudioToSopConverter = () => {
   };
 
   const formatText = (text: string | undefined | null): string => {
-    if (typeof text !== 'string') {
-      return ''; // Return an empty string if input is not a string
+    if (typeof text !== 'string' || text.trim() === '') {
+      return `<p class="text-gray-500 italic">${t.noSummaryAvailable}</p>`;
     }
-    // Format text between asterisks as bold
     text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
     
-    // Format summary as a numbered list
     if (text.startsWith("1. ")) {
       const lines = text.split('\n');
       const formattedLines = lines.map((line, index) => {
@@ -252,7 +259,6 @@ const AudioToSopConverter = () => {
 
   return (
     <div className="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-4">
-      {/* Top bar for mobile */}
       <div className="lg:hidden flex justify-between items-center mb-4">
         <button 
           onClick={toggleLanguage} 
@@ -268,7 +274,6 @@ const AudioToSopConverter = () => {
         </button>
       </div>
 
-      {/* SOP History sidebar */}
       <div className={`lg:w-64 bg-white p-4 border border-gray-200 rounded-lg shadow-md overflow-y-auto ${isHistoryOpen ? 'block' : 'hidden lg:block'}`}>
         <h2 className="text-lg font-semibold mb-4">{t.fileHistory}</h2>
         {userFiles.map((file) => (
@@ -289,7 +294,6 @@ const AudioToSopConverter = () => {
         ))}
       </div>
 
-      {/* Main Content */}
       <div className="flex-grow">
         <div className="bg-white border border-gray-200 p-4 lg:p-6 rounded-lg shadow-md">
           <div className="flex justify-between items-center mb-4">
@@ -340,7 +344,7 @@ const AudioToSopConverter = () => {
             </div>
           )}
 
-          {latestResult && (
+{latestResult && (
             <div className="mt-8 p-4 border border-gray-200 rounded bg-gray-50">
               <h2 className="text-xl font-semibold mb-2 text-gray-800">{t.result}</h2>
               <h3 className="font-semibold text-gray-700">{t.machine}: {latestResult.machine}</h3>

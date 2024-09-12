@@ -1,0 +1,30 @@
+**Standard Operating Procedure (SOP) for Machine_1**
+
+**Title:** Pulizia della Pureggia per Machine_1
+
+**Purpose:** Questa procedura dettagliata fornisce istruzioni su come pulire la pureggia di Machine_1 per garantire il suo corretto funzionamento.
+
+**Scope:** Questo SOP si applica al personale responsabile della manutenzione e dell'operazione di Machine_1.
+
+**Responsibilities:** Il personale incaricato deve seguire attentamente le istruzioni fornite in questo SOP per eseguire correttamente la pulizia della pureggia di Machine_1.
+
+**Equipment/Materials Needed:**
+- Panno pulito
+- Acqua
+- Detergente non abrasivo
+
+**Safety Precautions:**
+- Assicurarsi che Machine_1 sia spenta prima di iniziare la pulizia.
+- Utilizzare guanti per proteggere le mani durante la pulizia.
+- Prestare attenzione per evitare lesioni durante la pulizia della pureggia.
+
+**Procedura:**
+1. Stacca la pureggia di Machine_1 e posizionala su una superficie pulita.
+2. Utilizzando un panno pulito, rimuovi delicatamente lo sporco e la polvere dalla pureggia.
+3. Prepara una soluzione di acqua e detergente non abrasivo in una ciotola.
+4. Immergi il panno nella soluzione e strizzalo leggermente per rimuovere l'eccesso di liquido.
+5. Pulisci accuratamente la pureggia con il panno umido, assicurandoti di rimuovere qualsiasi residuo o macchia.
+6. Asciuga la pureggia con un altro panno pulito per rimuovere l'umidità residua.
+7. Una volta che la pureggia è completamente asciutta, riattaccala a Machine_1.
+
+Seguendo attentamente questa procedura, la pulizia della pureggia di Machine_1 sarà completata in modo sicuro ed efficace.

@@ -91,6 +91,32 @@ async function generateSOP(transcript: string, machineName: string, language: st
   }
 }
 
+async function generateSummary(transcript: string, language: string): Promise<string> {
+  console.log('Generating summary of transcript');
+  try {
+    const completion = await openai.chat.completions.create({
+      model: "gpt-3.5-turbo",
+      messages: [
+        {
+          role: "system",
+          content: "You are a helpful assistant that summarizes transcripts concisely."
+        },
+        {
+          role: "user",
+          content: `Please summarize the following transcript in a concise manner in ${language === 'it' ? 'Italian' : 'English'}:\n\n${transcript}`
+        }
+      ],
+      max_tokens: 150,
+      temperature: 0.7,
+    });
+
+    return completion.choices[0].message.content || 'No summary generated';
+  } catch (error) {
+    console.error('Error in summary generation:', error);
+    throw error;
+  }
+}
+
 export async function POST(req: NextRequest) {
   await createFolders();
 
@@ -136,6 +162,9 @@ export async function POST(req: NextRequest) {
     const sop = await generateSOP(transcript, machineName, language);
     console.log('SOP generated');
 
+    const summary = await generateSummary(transcript, language);
+    console.log('Summary generated');
+
     const transcriptPath = path.join(machinePath, 'transcripts', `${timestamp}_transcript.txt`);
     const sopPath = path.join(machinePath, 'sops', `${timestamp}_sop.txt`);
 
@@ -173,6 +202,7 @@ export async function POST(req: NextRequest) {
       transcriptFile: transcriptPath,
       sopFile: sopPath,
       transcript,
+      summary,
       sop
     });
 
